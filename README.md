@@ -1,3 +1,9 @@
+<img width="1366" height="768" alt="Screenshot (385)" src="https://github.com/user-attachments/assets/d1402c4a-892d-4ff6-bb2f-21743b57bc0d" />
+
+<img width="1366" height="768" alt="Screenshot (386)" src="https://github.com/user-attachments/assets/e4779047-2560-43e1-9bb7-d756de9b1899" />
+
+
+
 # TechyStore Sales Analytics Dashboard
 
 A two-page Power BI dashboard built on 1,000 rows of tech product sales data (Sep 2023 – Sep 2024), with a focus on **DAX time-intelligence measures** — MTD, QTD, and YTD — to track revenue performance over time.
